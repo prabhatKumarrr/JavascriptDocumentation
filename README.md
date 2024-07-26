@@ -1,3 +1,3 @@
 ﻿#TributePage
 
-A Simple Wikipidea page using HTML And CSS.
+A Simple Javascript Documentation page using HTML And CSS.
